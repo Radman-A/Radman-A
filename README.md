@@ -1,6 +1,5 @@
-<h1 align="center">Hi 👋, I'm Radman</h1>
-<h3 align="center">A passionate full stack developer and ui/ux designer from Iran. I've dipped my toes in the realm of game development and AI as well.</h3>
-
+<h1 align="center">Hey 👋, I'm Radman</h1>
+<h3 align="center">I'm an award winning full stack developer and ui/ux designer from Iran. I've dipped my toes in the realm of game development and AI as well.</h3>
 - 📫 Reach me at **rdmn.abdollahi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
